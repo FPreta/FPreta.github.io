@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PhD"
+title                    : "Francesco Preta"
 title_separator          : "-"
 name                     : &name "Francesco Preta"
 description              : &description "PhD Student in Mathematics, Courant Institute of Mathematical Sciences NYU"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/FPreta"
+  github           : "FPreta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/francesco-preta-369051171/"
+  linkedin         : "francesco-preta-369051171/"
   orcid            : 
   pinterest        :
   soundcloud       :
