@@ -37,11 +37,16 @@ Lecture notes:
 * Lecture 4 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_4_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_4.pdf): Determinants and matrix inverse.
 * Lecture 5 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_5_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_5.pdf): Linear independence and systems of linear equations.
 * Lecture 6 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_6_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_6.pdf): Change of basis, orthogonality and Gram-Schmidt algorithm.
-* Lecture 7 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_7_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_7.pdf): QR decompositionand least square models.
-* Lecture 8 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_8_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_8.pdf): Eigenvalues,eigenvectors and diagonalization.
-* Lecture 9 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_9_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_9.pdf): Dynamical systemsand Markov chains.
-* Lecture 10 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_10_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_10.pdf): Quadratic forms andSingular Value Decomposition.
-* Lecture 11 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_11_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_11.pdf): Algorithms for computingeigenvalues and eigenvectors and Principal Component Analysis.
+* Lecture 7 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_7_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_7.pdf): QR decomposition
+and least square models.
+* Lecture 8 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_8_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_8.pdf): Eigenvalues,
+eigenvectors and diagonalization.
+* Lecture 9 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_9_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_9.pdf): Dynamical systems
+and Markov chains.
+* Lecture 10 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_10_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_10.pdf): Quadratic forms and
+Singular Value Decomposition.
+* Lecture 11 - [Slides](http://fpreta.github.io/files/complinalg/slides/Lecture_11_slides.pdf), [Notes](http://fpreta.github.io/files/complinalg/lecnotes/Lecture_11.pdf): Algorithms for computing
+eigenvalues and eigenvectors and Principal Component Analysis.
 
 Homework :
 * [Homework 1](http://fpreta.github.io/files/complinalg/hw/Homework_1.pdf), [Solutions](http://fpreta.github.io/files/complinalg/hw/Homework_1_solutions.pdf)
@@ -52,7 +57,7 @@ Homework :
 
 Exams:
 * [Midterm](http://fpreta.github.io/files/complinalg/exams/Midterm.pdf), [Solutions](http://fpreta.github.io/files/complinalg/exams/Midterm_Solutions.pdf)
-* [Final](http://fpreta.github.io/files/complinalg/exams/Final), [Solutions](http://fpreta.github.io/files/complinalg/exams/Final_Solutions.pdf)
+* [Final](http://fpreta.github.io/files/complinalg/exams/Final.pdf), [Solutions](http://fpreta.github.io/files/complinalg/exams/Final_Solutions.pdf)
 
 
 
